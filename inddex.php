@@ -1,3 +1,7 @@
+<?php
+// This PHP block can be used to include session or any other required logic if needed.
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -53,7 +57,7 @@
     <div class="thank-you-container" id="thankYouContainer" style="display: none;">
         <h2>Thank You for Your Payment!</h2>
         <p>Your payment details have been successfully submitted.</p>
-        <a href="index.html">Go Back to Home</a>
+        <a href="index.php">Go Back to Home</a>
     </div>
 
     <!-- External JS -->
